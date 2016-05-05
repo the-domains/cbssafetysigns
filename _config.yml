@@ -1,0 +1,28 @@
+name: CBSSAFETYSIGNS
+favicon: null
+layout_spectrum: 0.9298500013537705
+typography_spectrum: 0.22562215803191066
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.12050605937838554
+  lightness: 0.6528647935483605
+  saturation: 0.14490940398536623
+  rhythmicContrast: 0.6808426503557712
+purpose: []
